@@ -2,7 +2,7 @@
 # Week 17 — Tableau ShopKart Analytics
 
 ## 🔗 Live Dashboard
-View on Tableau Public([YOUR_URL_HERE](https://public.tableau.com/app/profile/ankit.sahu8375/viz/ShopKart-Analytics-Ankit-Sahu/ShopKartAnalytics?publish=yes))
+View on Tableau Public(https://public.tableau.com/app/profile/ankit.sahu8375/viz/ShopKart-Analytics-Ankit-Sahu/ShopKartAnalytics?publish=yes)
 
 ## Charts Made
 - Category-wise Sales Bar Chart
